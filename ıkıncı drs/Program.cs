@@ -131,6 +131,125 @@ namespace ıkıncı_drs
 
 
             #endregion
+            #region
+            // Console.WriteLine();
+            // Console.Write("karakter adı: ");
+            // string passengerkarakeradı,passegerkarakersoyadı,passenggerkarakaktercanı;
+            // passengerkarakeradı = Console.ReadLine();
+            // passegerkarakersoyadı = Console.ReadLine();
+            // passenggerkarakaktercanı = Console.ReadLine();
+            // Console.Read();
+            //int mermısaysı;
+            // int mermıhasarı;
+            // Console.WriteLine("kac mermı var ");
+            // mermısaysı = int.Parse(Console.ReadLine());
+            // Console.WriteLine("canın kac");
+            // mermıhasarı = int.Parse(Console.ReadLine());
+            // Console.WriteLine(mermısaysı + mermıhasarı);
+
+
+
+
+            // if (mermısaysı > mermıhasarı )
+            // {
+            //     Console.WriteLine("kazandın");
+            // }
+            // else if (mermısaysı + mermıhasarı >100)
+            // {
+            //     Console.WriteLine("kacın amınıza koyacam ");
+            // }
+            // else
+            // {
+            //     Console.WriteLine(" yarrağı yeddık ;) ");
+            // }  
+            #endregion
+
+            #region
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
