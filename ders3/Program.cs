@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -139,115 +140,108 @@ namespace ders3
             //    Console.WriteLine("afiyet olsun");
             //}
 
+
+
+            //int number1, number2, toplam;
+            //char symbol;
+            //Console.WriteLine("lutfen bırıncı sayıyı gır");
+            //number1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("lutfen ikincı sayıyı gırınız ");
+            //number2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("lutfen ne yapmak ıstrıyorsun");
+            //symbol = char.Parse(Console.ReadLine());
+
+            //switch(symbol)
+            //{ case '+':
+            //        toplam = number1 + number2;
+            //        Console.WriteLine("sonuc: " + (number1 + number2));
+            //        break;
+            //    case '-':
+            //        Console.WriteLine("sonuc: " + (number1 - number2));
+            //        break;
+            //    case '*':
+            //        Console.WriteLine("sonuc: " + (number1 * number2));
+            //        break;
+            //    case '/':
+            //        Console.WriteLine("sonuc: " + (number1 / number2));
+            //        break;
+            //    default:
+            //        Console.WriteLine("gecersız islem");
+            //        break;
+            //    }
+
+            // char bakıyesorgulama, bakıye, paracekme, parayatırma;
+            // int hesap = 1000;
+            //3
+
+            // switch (hesap)
+            // { case '1':
+            //         Console.WriteLine("bakıyenız: " + bakıye);
+            //         break;
+            //     case '2':
+            //         Console.WriteLine("hesap");
+            //         break;
+            //     case '3':
+            //         Console.WriteLine("paracekme");
+            //         break;
+            //     case '4':
+            //         Console.WriteLine("para yatırma");
+            //         break;
+            //     default:
+            //         Console.WriteLine("gecersız islem");
+            //         break;
+
+            // }
+            #endregion  
+            #region kendiyazım
+            //Console.WriteLine(" geminini adı ne olsun ");
+            //string gemiadı;
+            //gemiadı = Console.ReadLine();
+            //Console.WriteLine(" kac ton yakkıt alaaksın ");
+            //int yakkıt;
+            //yakkıt = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("**** uzay gemısı ussu ****");
+            //Console.WriteLine("");
+            //Console.WriteLine("");
+            //Console.WriteLine("reaktorun modeli nedır");
+            //string reaktor;
+            //reaktor = Console.ReadLine();
+            //if (reaktor != null)
+            //{
+            //    Console.WriteLine("reaktorun modeli: " + reaktor);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("reaktorun modeli gırılmedı");
+            //}
+            //Console.WriteLine("sıcaklık kac derece");
+            //int sıcaklık;
+            //sıcaklık = int.Parse(Console.ReadLine());
+            //if (sıcaklık > 0 & sıcaklık <= 100)
+            //{
+            //    Console.WriteLine("sıcaklık normal");
+            //}
+            //else if (sıcaklık > 100 & sıcaklık <= 200)
+            //{
+            //    Console.WriteLine("sıcaklık yüksek");
+            //}
+            //else if (sıcaklık > 200 & sıcaklık <= 300)
+            //{
+            //    Console.WriteLine("sıcaklık cok yüksek");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("sıcaklık gırılmedı");
+            //}
+            //Console.WriteLine("uranyum bucuk doluluk ooranı");
+            //double uranyumbucuk;
+            //uranyumbucuk = double.Parse(Console.ReadLine());
+            //Console.WriteLine(reaktor + sıcaklık + uranyumbucuk);
+            // yani aslında son satırda yazdıgımız seyler tek tek yazılacak ama ben  onları toplu halde yazdım ve
+            // ekrana yazdırdım bu da bize tek tek yazdırmaktan daha kolay geldi ve daha az kod yazmama neden oldu.
+            // burada tek sıkıntı start ekranında hepsinin yek pare gozukmesı duzeltilebilir.
             #endregion
-
-            int number1, number2, toplam;
-            char symbol;
-            Console.WriteLine("lutfen bırıncı sayıyı gır");
-            number1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("lutfen ikincı sayıyı gırınız ");
-            number2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("lutfen ne yapmak ıstrıyorsun");
-            symbol = char.Parse(Console.ReadLine());
-            
-            switch(symbol)
-            { case '+':
-                    toplam = number1 + number2;
-                    Console.WriteLine("sonuc: " + (number1 + number2));
-                    break;
-                case '-':
-                    Console.WriteLine("sonuc: " + (number1 - number2));
-                    break;
-                case '*':
-                    Console.WriteLine("sonuc: " + (number1 * number2));
-                    break;
-                case '/':
-                    Console.WriteLine("sonuc: " + (number1 / number2));
-                    break;
-                default:
-                    Console.WriteLine("gecersız islem");
-                    break;
-                }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Console.ReadLine();
              
 
 
@@ -283,7 +277,6 @@ namespace ders3
 
 
 
-     
 
 
 
@@ -311,7 +304,85 @@ namespace ders3
 
 
 
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
