@@ -33,7 +33,13 @@ namespace loops
             //string mervan;
             //mervan = Console.ReadLine();
             //Console.WriteLine("sg");
-             
+
+
+            //Console.WriteLine("en ıyı ablam hulya");
+            //string hulya;
+            //hulya = Console.ReadLine();
+            //Console.WriteLine(" hayır nankor gulizar  ");
+
 
 
 
