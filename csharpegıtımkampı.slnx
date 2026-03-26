@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="01csharpegıtımkampıtemel/01csharpegıtımkampıtemel.csproj" Id="e7e28609-1111-461b-9b50-acd2cadf5463" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="c6be464a-2dfd-4ed0-800a-7eab49c76903" />
   <Project Path="ders3/ders3.csproj" Id="00b24ca9-5581-4f67-8abc-8b2fc3f7d0a7" />
   <Project Path="loop part 2/loop part 2.csproj" Id="f76736ea-685f-47d9-b0bc-aa151a61d074" />
   <Project Path="loops/loops.csproj" Id="459310a7-5a88-4bf0-851f-039fb8e5d181" />
