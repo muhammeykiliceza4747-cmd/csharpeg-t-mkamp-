@@ -178,7 +178,7 @@ namespace ConsoleApp1
                     while (mesailer[i] < 0)
                     {
                         Console.WriteLine("hatalı gırıs");
-                        Console.WriteLine("mesai saati gırınız: ");44
+                        Console.WriteLine("mesai saati gırınız: ");
                         mesailer[i] = int.Parse(Console.ReadLine());
                     }
                 }
